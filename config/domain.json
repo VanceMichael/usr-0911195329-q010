@@ -1,0 +1,6 @@
+{
+  "service_id": "smart-kitchen",
+  "title": "智慧厨房设备食谱编排后端",
+  "health_path": "/health",
+  "port": 8080
+}
