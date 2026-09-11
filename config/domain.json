@@ -1,6 +1,7 @@
 {
   "service_id": "smart-kitchen",
-  "title": "智慧厨房设备食谱编排后端",
+  "title": "智慧水网配额分配接口",
   "health_path": "/health",
-  "port": 8080
+  "port": 8080,
+  "display_name": "智慧水网配额分配接口"
 }
